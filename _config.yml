@@ -1,9 +1,6 @@
-name: AW Hotel & Convention Center
-layout_spectrum: 0.23463005218957278
 typography_spectrum: 0.7830298190309444
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#468966'
@@ -15,10 +12,13 @@ color:
   lightness: 0.7453467392577633
   saturation: 0.47176831471987735
   rhythmicContrast: 0.7994090815088711
-title: Naturally Your Home
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.23463005218957278
 author:
   name: 'Sari Muda '
   url: www.awhotel.com
   email: smudawahab@gmail.com
-content_rating:
-  adult: false
+name: AW Hotel & Convention Center
+title: AW Hotel & Convention Center
