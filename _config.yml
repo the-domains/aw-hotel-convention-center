@@ -1,4 +1,6 @@
 name: AW Hotel & Convention Center
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f72cb1c6-fcbd-4665-abee-9d60d8f11a58.png
 layout_spectrum: 0.23463005218957278
 typography_spectrum: 0.7830298190309444
 opengraph:
@@ -15,7 +17,7 @@ color:
   lightness: 0.7453467392577633
   saturation: 0.47176831471987735
   rhythmicContrast: 0.7994090815088711
-title: AW Hotel & Convention Center
+title: Kuala Tungkal
 author:
   name: 'Sari Muda '
   url: www.awhotel.com
